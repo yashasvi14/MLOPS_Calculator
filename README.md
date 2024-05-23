@@ -76,7 +76,9 @@ docker push sarathchandra24/calculator-backend:latest
 
 docker images
 
+docker system prune
 
+also ctrl+c to exit terminal command
 ```
 
 ## Test backend API

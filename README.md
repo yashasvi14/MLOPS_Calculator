@@ -73,6 +73,10 @@ docker tag calculator-backend:v1 sarathchandra24/calculator-backend:v1
 
 # Push the Docker image
 docker push sarathchandra24/calculator-backend:latest
+
+docker images
+
+
 ```
 
 ## Test backend API
